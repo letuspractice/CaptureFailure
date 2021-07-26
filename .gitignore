@@ -1,0 +1,22 @@
+TempTestSuite*.*
+TempTestCase*.*
+**bin/
+**Libs/
+**/.settings/
+**/.classpath
+.svn/
+# all global profiles and variables except default #
+######################
+*.glbl
+!default.glbl
+*.class
+*.swp
+**/Reports/
+**/settings/
+**/bin/
+**/Libs/
+.settings/
+.classpath
+.svn/
+*.xlsx
+**/.cache/
